@@ -1,0 +1,148 @@
+html,body {margin:0; padding:0 9px 9px 9px;height:100%;background: #FFFFFF url(../images/bg_01.gif) repeat-x}
+
+form {margin:0;padding:0}
+
+body,td,p {font-family: Arial, Helvetica, sans-serif;font-size: 11px}
+
+a {color: #9F3327;text-decoration: none}
+a:hover {text-decoration: underline}
+
+p {
+	padding-bottom: 12px;
+	margin: 0px;
+	text-align: justify;
+	font-size: 14px;
+	color: #000;
+}
+ul,ol {
+	margin-top: 0;
+	margin-bottom: 12px;
+	text-align: justify;
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 16px;
+	margin: 0px;
+	font-weight: normal;
+	text-align: justify;
+}
+
+.bgx {
+	background-repeat: repeat-x;
+	color: #FFFFFF;
+}
+.bgy {background-repeat: repeat-y}
+.bgnr{background-repeat: no-repeat}
+.bgbl {background: #FFF0E3 url(../images/bg_04.gif) bottom left no-repeat}
+.bgbrr {background: url(../images/bg_05.gif) bottom right no-repeat}
+.bgrt {background: url(../images/el_03.gif) top right no-repeat}
+.bgrt td { background-position:left top}
+.bgr {background-position:right; background-repeat: no-repeat}
+.bgrb {
+	background: #F8CFB6 url(../images/el_05.gif) bottom right no-repeat;
+	font-size: 14px;
+	color: #000;
+}
+.bglb {background: url(../images/el_07.gif) bottom left no-repeat}
+.bggg {
+	background: url(../images/el_08.gif) top right no-repeat;
+	text-align: center;
+}
+.spacer {
+	visibility: hidden;
+	font-size: 12px;
+}
+.cpr {
+	padding: 4px 4px 4px 12px;
+	background: url(../images/el_01.gif) bottom left no-repeat;
+	color: #000000;
+}
+.bmenu {padding: 4px 25px 4px 4px; background:url(../images/el_02.gif) bottom right no-repeat}
+.main {
+	padding: 0px 10px 0px 10px;
+	color: #FFFFFF;
+}
+.mtitle {padding: 9px 9px 9px 50px}
+.mitem {
+	background: url(../images/mitem.gif) no-repeat;
+	padding-left: 51px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.mitem a {color:#000}
+.mitem a:hover {
+	color: #C00;
+	text-decoration: none
+}
+.menu {margin-right:3px}
+.menu td {padding: 3px 10px 0 10px}
+.menu a {
+	color: #D6D6D6
+}
+.dev {background:url(../images/dev.gif) center 12px no-repeat}
+.logo {
+	color: #FFF;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;
+}
+.slogan { position:absolute; top:146px; width:350px; padding-left:42px; color:#8C5000; font-size:12px}
+.title h1 {
+	text-transform: uppercase;
+	margin-left: 14px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.content {
+	padding: 15px 14px 5px 14px;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+}
+.ц {
+	color: #33C;
+	font-family: "Lucida Console", Monaco, monospace;
+	text-align: right;
+}
+.main table tr .bgrb .bgnr tr .bglb.content p {
+	text-align: left;
+}
+.main table tr .bgrb .bgnr tr .bglb.content table tr td {
+	font-size: 16px;
+	text-align: center;
+}
+.main table tr .bgrb .bgnr tr .bglb.content p a {
+	font-size: 16px;
+}
+.main table tr .bgrb .bgnr tr .bglb.content p {
+	font-size: 16px;
+}
+.main table tr .bgrb .bgnr tr .bglb.content p {
+	font-size: 16px;
+}
+tr .bgrb .bgnr tr .bglb.content p {
+	font-size: 16px;
+}
+.main table tr .bgrb .bgnr tr .bglb.content table {
+	text-align: center;
+	font-size: 16;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.main table tr .bgrb .bgnr tr .bglb.content p {
+	text-align: justify;
+}
+.zzz {
+	text-align: justify;
+}
+qq {
+}
+.main table tr .bgrb .bgnr tr .bglb.content p a {
+	text-align: justify;
+}
+.zzz {
+}
+.main a u {
+	font-size: 16px;
+}
